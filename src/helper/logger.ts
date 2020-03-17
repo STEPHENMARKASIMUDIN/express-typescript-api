@@ -1,4 +1,4 @@
-import { transports, createLogger, format } from 'winston';
+
 import { logger } from '.';
 
 function loggerPortal(level?: string, message?: string, messageOccured?: string): void {

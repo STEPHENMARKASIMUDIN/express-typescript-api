@@ -1,1 +1,1 @@
-export const ADMIN_LOGIN = "ADMIN_LOGIN";
+export const ADMIN_LOGIN: string = "ADMIN_LOGIN";
